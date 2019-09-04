@@ -33,6 +33,8 @@
 ## Install
 
 ```sh
+git clone https://github.com/jsany/npm-template.git && cd npm-template
+
 npm install
 ```
 
