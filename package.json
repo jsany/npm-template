@@ -1,5 +1,5 @@
 {
-  "name": "npm-template",
+  "name": "@jsany/npm-template",
   "version": "1.0.0",
   "description": "npm pkg typescript template",
   "main": "lib/index.js",
