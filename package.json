@@ -21,7 +21,7 @@
     }
   },
   "lint-staged": {
-    "src/**/!(CHANGELOG).{js,jsx,tsx,ts,less,md,json}": [
+    "src/**/.{js,jsx,tsx,ts,less,md,json}": [
       "prettier --write",
       "npm run test",
       "git add"
