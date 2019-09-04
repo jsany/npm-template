@@ -25,6 +25,7 @@
 - [x] **@typescript-eslint**
 - [x] **no-tslint**
 - [x] **prettier**
+- [x] **standard-version**
 - [x] **unit-test(jest)**
 - [x] **commit convention**
 - [x] **react component / jsx**
